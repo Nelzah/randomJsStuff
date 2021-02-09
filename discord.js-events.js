@@ -1,6 +1,6 @@
 	client
   
-  // Discord.js Commando
+  	// Discord.js Commando
 	.on('commandBlock', async (message,reason,data) => {})
 	.on('commandCancel', async (command,reason,message,result) => {})
 	.on('commandError', async (command,err,message,args,fromPattern,result) => {})
